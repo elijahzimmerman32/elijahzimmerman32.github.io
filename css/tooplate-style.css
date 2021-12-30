@@ -29,7 +29,9 @@ a:hover { color: #30ADAD; }
 
 h1, h2, p, i, address, .tm-text-white { color: white; }
 
-h1 {font-size: 60px;}
+h1 {font-size: 50px;
+
+}
 
 .list {color: #F96699;}
 
@@ -61,7 +63,9 @@ h1 {font-size: 60px;}
 }
 
 .tm-site-header { height: 200px;
-    }
+    
+
+}
 
 .tm-site-header2 { height: 450px; }
 
