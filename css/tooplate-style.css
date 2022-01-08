@@ -166,6 +166,7 @@ textarea {
 .tm-social-link:hover i.fa-facebook { color: #3b5998; }
 .tm-social-link:hover i.fa-twitter { color: #00acee; }
 .tm-social-link:hover i.fa-instagram { color: #3f729b; }
+.tm-social-link:hover i.fa-light-fa-image { color: #3f729b; }
 .tm-flex { display: flex; }
 address { font-style: normal; }
 
